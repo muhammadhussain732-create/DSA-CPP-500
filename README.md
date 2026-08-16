@@ -1,2 +1,3 @@
-# DSA-CPP-500
-My journey to solve 500 LeetCode problems in C++ for Data Science &amp; ML roles
+## 🎯 Mera Goal
+Placements se pehle 500 DSA questions complete karna.  
+Daily practice + Consistency 💪
