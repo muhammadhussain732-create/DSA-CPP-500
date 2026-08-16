@@ -1,7 +1,9 @@
-## DSA-CPP-500 🚀
-##500 LeetCode Problems in C++
 
-Mera goal: Placements se pehle 500 DSA questions complete karna.  
+# DSA-CPP-500 🚀
+### 500 LeetCode Problems in C++
+
+## 🎯 My Goal
+Complete 500 DSA questions before placement.  
 Daily practice + Consistency 💪
 
 ## 📊 Progress Tracker
